@@ -33,19 +33,11 @@ Hi I'm Aash-AI,
     ["Aash - AI 4FLAG V-10"]
 ```
 
-<div align="center">
-
-</div>
-
-# Deployment Methods
-
-<div align="center">
-   
 
 
  
 
-> ❯ Deploy Strong Platform For Better Experience...
+> ❯ Heroku deploy url...
 
 ```
 
@@ -54,9 +46,7 @@ https://heroku.com/deploy?template=
 
 ```
 
-> Advance level Chat gpt AI Whatsapp Bot
- 
-> Please Give A Star On Repo
+>Please, give me a star
 
 ---
 

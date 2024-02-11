@@ -5,6 +5,8 @@
 
 # App.json - Heroku commands
 ```
+Copy the JSON down and paste in repl and heroku then fill the vars
+
   "SESSION_ID": "Paste your session ID",
   "OWNER_NUMBER": "94752013704",
   "OWNER_NAME": "janith",

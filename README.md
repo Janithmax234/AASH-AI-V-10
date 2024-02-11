@@ -42,11 +42,9 @@
 <a href="https://github.com/DarkWinzo/Queen-AI/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Fork Queen-AI" height="112" width="310" /></a>
   <div>
 <br>
-<a href="https://github.com/DarkWinzo/Queen-AI/wiki/Queen-AI-Deploy" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy Queen-AI" height="112" width="310" /></a>
+<a href="https://github.com/Janithmax234/AASH-AI-V-10/wiki/AASH-AI-V-10-Deploy" target="blank"><img align="center" src="<div><a href="https://i.ibb.co/K9S2LkY/Picsart-24-02-11-21-49-27-657.jpg" alt="Deploy Aash-AI" height="112" width="310" /></a>
   <div>
 <br>
-div>   
----
 
 # AASH-AI-V-10
 

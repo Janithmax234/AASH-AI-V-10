@@ -45,6 +45,7 @@
 <a href="https://github.com/DarkWinzo/Queen-AI/wiki/Queen-AI-Deploy" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy Queen-AI" height="112" width="310" /></a>
   <div>
 <br>
+div>   
 ---
 
 # AASH-AI-V-10

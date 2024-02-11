@@ -1,3 +1,37 @@
+# App.json
+
+the JSON down and paste in repl and hiroku then fill the vars
+
+```
+
+  "SESSION_ID": "Paste your session ID",
+  "OWNER_NUMBER": "94752013704",
+  "OWNER_NAME": "janith",
+  "OPENAI_API_KEY"If you have a api key, paste here /false",
+  "MONGODB_URI": "Be sure to fill this out",
+  "PACK_INFO": "Aash;AI",
+  "PREFIX": ".|,|•",
+  "AUTO_REACTION": false,
+  "READ_MESSAGE" : true,
+  "THEME" : 'Aash;AI',
+  "ALWAYS_ONLINE": 'true',
+  "ALIVE_MESSAGE": 'Linked by(user name)',
+  "ANTI_BAD_WORD": 'true',
+  "ANTILINK_ACTION": 'false',
+  "ANTILINK_VALUES": 'Paste your values linkes, more one',
+  "DISABLE_PM": 'true',
+  "AUTO_STRETUS_SEEN": 'false'
+  "HEROKU_API_KEY": 'Be sure to fill this out',
+  "HEROKU_APP_NAME": 'Be sure to fill this out',
+  "LEVEL_UP_MESSAGE": 'true',
+  "WORKTYPE": 'public',
+  "ACTIVE_GLINK": 'Add your group link or links /false',
+  "CHAT_BOT_NAME": 'simsimi', 
+  
+
+```
+
+
 # AASH-AI-V-10
 
 

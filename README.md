@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=Aash+Ai+user+bot+Md+;Created+By+Janith+indunil" alt="Typing SVG" /></a>
 </p> 
 
-# App.json - Heroku commands
+# ᴀᴘᴘ. ᴊꜱᴏɴ - ʜᴇʀᴏᴋᴜ ᴄᴏᴍᴍᴀɴᴅꜱ 
 ```
 Copy the JSON down and paste in repl and heroku then fill the vars
 
@@ -39,7 +39,7 @@ Copy the JSON down and paste in repl and heroku then fill the vars
    
 
 
-# Aash Ai whatsapp bot details 
+# ᴀᴀꜱʜ ᴀɪ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ'ꜱ ᴘᴜʙʟɪᴄ ᴅᴇᴛᴀɪʟꜱ
 
 
 <div align="center">
@@ -79,7 +79,7 @@ Hi I'm Aash-AI,
 ---
 
 
-# How to deploy whatsapp bot in github to Heroku
+# ᴅᴇᴘʟᴏʏ ʜᴇʀᴏᴋᴜ
 
  Deploying an AI chatbot on GitHub and Heroku involves a few steps. Below is a general guide on how you can accomplish this:
 
@@ -109,7 +109,7 @@ By following these steps, you should be able to deploy your AI chatbot to GitHub
 
 
 
-# how to deploy whatsapp bot github to Replit 
+# ᴅᴇᴘʟᴏʏ ʀᴇᴘʟɪᴛ
 
 To deploy a WhatsApp bot using GitHub and Replit, you can follow these general steps:
 
@@ -154,7 +154,7 @@ By following these steps, you should be able to deploy your WhatsApp bot using G
 
 
 
-# How to deploy whatsapp bot github > Codespace
+# ᴅᴇᴘʟᴏʏ ᴄᴏᴅᴇꜱᴘᴀᴄᴇ
 
 Deploying a WhatsApp bot using GitHub Codespaces involves setting up your development environment within the GitHub Codespaces environment, coding your WhatsApp bot, and then deploying it to a platform that can interact with the WhatsApp API. Here's a general guide on how to do this:
 
@@ -198,7 +198,7 @@ By following these steps, you should be able to deploy your WhatsApp bot using G
 
 
 
-# How to deploy whatsapp bot github to Koyeb
+# ᴅᴇᴘʟᴏʏ ᴋᴏʏᴇʙ
 
 Deploying a WhatsApp bot from GitHub to Koyeb involves several steps. Koyeb is a platform that allows you to deploy and manage serverless applications easily. Here's a general guide on how to do this:
 
@@ -241,7 +241,7 @@ By following these steps, you should be able to deploy your WhatsApp bot from Gi
 
 
 
-# How to deploy whatsapp bot github to pannel server
+# ʀᴜɴ ᴏɴ ᴘᴀɴɴᴇʟ ꜱᴇʀᴠᴇʀ
 
 Deploying a WhatsApp bot from GitHub to a panel server involves several steps. Here's a general guide on how to do this:
 
@@ -280,7 +280,7 @@ By following these steps, you should be able to deploy your WhatsApp bot from Gi
 
 
 
-# How to deploy whatsapp bot github to Railway
+# ᴅᴇᴘʟᴏʏ ʀᴀɪʟᴡᴀʏ
 
 To deploy a WhatsApp bot from GitHub to Railway, you can follow these steps:
 
@@ -337,7 +337,7 @@ By following these steps, you should be able to deploy your WhatsApp bot from Gi
 
 
 
-# How to deploy whatsapp bot github to Coolify
+# ᴅᴇᴘʟᴏʏ ᴄᴏᴏʟɪꜰʏ
 
 As of my last update in January 2022, there doesn't seem to be a widely known platform named Coolify for deploying applications. However, I can provide you with a general guideline on how you can deploy your WhatsApp bot from GitHub to any hosting platform.
 
@@ -374,7 +374,7 @@ Remember to consult Coolify's documentation or support resources for specific gu
 
 
 
-# How to deploy whatsapp bot github to Mogenius
+# ᴅᴇᴘʟᴏʏ ᴍᴏɢᴇɴɪᴏᴜꜱ
 
 To deploy a WhatsApp bot from GitHub to MoGenius, you'll need to follow these general steps:
 
@@ -412,7 +412,7 @@ By following these steps, you should be able to deploy a WhatsApp bot from GitHu
 
 
 
-# how to run this repository github to Termux
+# ʀᴜɴ ᴏɴ ᴛᴇʀᴍᴜx
 
 To run a WhatsApp bot from a GitHub repository in Termux, you'll need to follow these general steps:
 

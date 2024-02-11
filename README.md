@@ -22,13 +22,15 @@ This will be my and our team's last github project, thanks to you and others who
 Hi I'm Aash-AI,
 
 • __Version__  == "__10.1__":
-    {"Aash - AI 4FLAG V-10"}
+    ["Aash - AI 4FLAG V-10"]
     
 • __Gang__ == "__Syber see squad__":
-    {"Aash - AI 4FLAG V-10"}
+    ["Aash - AI 4FLAG V-10"]
+
+• __Owner__ == "Janith indunil's Aash__":
 
 • __Reason__ == "__Can you tell me the meaning of this?__":
-    {"Aash - AI 4FLAG V-10"}
+    ["Aash - AI 4FLAG V-10"]
 ```
 
 <div align="center">

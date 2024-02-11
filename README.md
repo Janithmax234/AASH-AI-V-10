@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=Aash+Ai+user+bot+Md+;Created+By+Janith+indunil" alt="Typing SVG" /></a>
 </p> 
 
-# App.json - Heroku all commands
+# App.json - Heroku commands
 ```
   "SESSION_ID": "Paste your session ID",
   "OWNER_NUMBER": "94752013704",

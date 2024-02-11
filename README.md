@@ -25,8 +25,6 @@
   "CHAT_BOT_NAME": 'simsimi',
 
 ```
-# 
-
 
   <hr>
   <h2>
@@ -34,14 +32,7 @@
   </h2>
   <details close>
     <summary>Click to choose your favorite platform to deploy</summary>
-    <br><br>
-    <h4 align="center">Deploy on Repl.it</h4>
-    <p align="center">
-      <a href="https://replit.com/@Janithidunil/Dark-queen">
-        <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT">
-      </a>
-    </p>
-    <br>
+    
 
     
 # AASH-AI-V-10

@@ -47,7 +47,7 @@ This will be my and our team's last github project, thanks to you and others who
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+A+S+H+++W+H+A+T+S+A+P+P+++U+S+E+R+-+B+O+T" alt="Typing SVG" /></a>
 </h1>
 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+A+S+H+-+W+H+A+T+S+A+P+P; U+S+E+R+-+B+O+T" alt="Typing SVG" /></a>
 
 <p align="center">
 

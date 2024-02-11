@@ -45,14 +45,12 @@ Hi I'm Aash-AI,
 > ❯ Deploy Strong Platform For Better Experience...
 
 ```
-Menu Command ==> .menu
+Consept > Queen-AI
 
-Setting Menu Command ==> .setting-menu
-
+4FLAG > V-10
 ```
-> [***For Looking Queen-AI All Commands***](https://github.com/DarkWinzo/Queen-AI/wiki/Queen-AI-Commands)
 
-> Advance Chat gpt AI Whatsapp Bot
+> Advance level Chat gpt AI Whatsapp Bot
  
 > Please Give A Star On Repo
 
@@ -61,5 +59,5 @@ Setting Menu Command ==> .setting-menu
 
 ## Support Group
 
-<a href="https://chat.whatsapp.com/FV679PbXtZ3BAz0zvaC85u"><img title="Queen-AI Support" src="https://img.shields.io/badge/Aash%20AI%20Deploy%20Help-Touch%20Here-green.svg?style=for-the-badge&logo=aash+ai+support " /></a>
+<a href="https://chat.whatsapp.com/FV679PbXtZ3BAz0zvaC85u"><img title="Queen-AI Support" src="https://img.shields.io/badge/Aash%20AI%20Deploy%20Help-Touch%20Here-green.svg?style=for-the-badge&logo=aash+ai+support+group" /></a>
 

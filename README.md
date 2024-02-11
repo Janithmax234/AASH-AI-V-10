@@ -1,4 +1,14 @@
 # AASH-AI-V-10
+
+
+<div align="center">
+
+ 
+```python
+Hi I'm Aash-AI Whatsapp Advance level chatgpt Chat Bot
+
+```
+
 This will be my and our team's last github project, thanks to you and others who have been with us for so long 🔴
 
 
@@ -8,7 +18,7 @@ This will be my and our team's last github project, thanks to you and others who
 </p>
 
 ```python
-Hi I'm Aash-AI Whatsapp Advance level chatgpt Chat Bot
+Hi I'm Aash-AI,
 
 • __Version__  == "__10.1__":
     {"Aash - AI 4FLAG V-10"}

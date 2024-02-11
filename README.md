@@ -27,10 +27,6 @@
 ```
 
 
-  <details close>
-    <summary>Click to choose your favorite platform to deploy</summary>
-    
-
     
 # AASH-AI-V-10
 

@@ -46,9 +46,10 @@ Hi I'm Aash-AI,
 > ❯ Deploy Strong Platform For Better Experience...
 
 ```
-Consept > Queen-AI
 
-4FLAG > V-10
+https://heroku.com/deploy?template=
+
+
 ```
 
 > Advance level Chat gpt AI Whatsapp Bot

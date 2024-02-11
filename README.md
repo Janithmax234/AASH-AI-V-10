@@ -34,9 +34,8 @@ Hi I'm Aash-AI,
 ```
 
 ---
-> ❯ Heroku deploy url...
 ```
-https://heroku.com/deploy?template=
+> ❯ https://heroku.com/deploy?template=
 ```
 ---
 

@@ -1,4 +1,4 @@
-# App.json
+# App.json - Heroku all commands
 ```
   "SESSION_ID": "Paste your session ID",
   "OWNER_NUMBER": "94752013704",
@@ -27,12 +27,12 @@
 ```
 
 
-# Deployment methods
+# Deployment methods in social 
     
    
 
 
-# AASH-AI-V-10
+# Aash Ai whatsapp bot details 
 
 
 <div align="center">

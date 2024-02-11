@@ -12,11 +12,8 @@ Hi I'm Aash-AI Whatsapp Advance level chatgpt Chat Bot
 This will be my and our team's last github project, thanks to you and others who have been with us for so long 🔴
 
 
-<p align="center">
- <a href="" rel="noopener">
-   <img alt="dark queen docs" height="400" src="https://i.ibb.co/K9S2LkY/Picsart-24-02-11-21-49-27-657.jpg">  </a>
-   <h1 align="center">
-p>
+
+    
 ```python
 
 Hi I'm Aash-AI,

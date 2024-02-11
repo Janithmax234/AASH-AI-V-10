@@ -1,7 +1,6 @@
 # AASH-AI-V-10
 This will be my and our team's last github project, thanks to you and others who have been with us for so long 🔴
 
-# QUEEN - AI
 
 <p align="center">
  <a href="" rel="noopener">
@@ -9,16 +8,16 @@ This will be my and our team's last github project, thanks to you and others who
 </p>
 
 ```python
-Hi I'm Queen-AI Whatsapp Advance chatgpt Chat Bot
+Hi I'm Aash-AI Whatsapp Advance level chatgpt Chat Bot
 
-• __version__  == "__1.0.1__":
-    return print("1.0.0")
+• __version__  == "__10.1__":
+    return print("10.1")
     
-• __Team__ == "__Technical Hacking Team__":
-    return print("Technical Hacking Team")
+• __Team__ == "__Syber see squad__":
+    return print("Syber see squrd")
   
-• __Currently_Language__ == "__English & Sinhala & Urdu & Malayalam & Hindi & French__":
-    return print("English & Sinhala & Urdu & Malayalam & Hindi & French")
+• __Currently_Language__ == "__English & Sinhala__":
+    return print("English & Sinhala")
 ```
 
 <div align="center">
@@ -37,7 +36,7 @@ Hi I'm Queen-AI Whatsapp Advance chatgpt Chat Bot
   <div>
  <br>
 
-<a href="https://github.com/DarkWinzo/Queen-AI/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Fork Queen-AI" height="112" width="310" /></a>
+<a href="https:https://github.com/Janithmax234/AASH-AI-V-10/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Fork Queen-AI" height="112" width="310" /></a>
   <div>
 <br>
 <a href="https://github.com/DarkWinzo/Queen-AI/wiki/Queen-AI-Deploy" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy Queen-AI" height="112" width="310" /></a>

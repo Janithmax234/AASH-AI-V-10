@@ -34,7 +34,7 @@ Copy the JSON down and paste in repl and heroku then fill the vars
 ```
 
 
-# Deployment methods in social 
+# ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅꜱ ɪɴ ꜱᴏᴄɪᴀʟ
     
    
 

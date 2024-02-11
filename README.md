@@ -65,8 +65,3 @@ https://heroku.com/deploy?template=
 
 
 
-<div><a href="https://ibb.co/0fvCFSk"><img src="https://i.ibb.co/K9S2LkY/Picsart-24-02-11-21-49-27-657.jpg" alt="Picsart-24-02-11-21-49-27-657" border="0">
-</div>
-
-
-

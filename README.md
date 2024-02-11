@@ -1,4 +1,5 @@
-# App.json
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=App.json🎧)](https://git.io/typing-svg)
+
 ```
   "SESSION_ID": "Paste your session ID",
   "OWNER_NUMBER": "94752013704",

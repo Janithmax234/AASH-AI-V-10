@@ -22,6 +22,7 @@ This will be my and our team's last github project, thanks to you and others who
 Hi I'm Aash-AI,
 
 • __Version__  == "__10.1__":
+```
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+A+S+H+-+A+I+-+W,+-+B+O+T /></a>
 
     

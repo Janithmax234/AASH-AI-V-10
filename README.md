@@ -1,57 +1,69 @@
 # AASH-AI-V-10
 This will be my and our team's last github project, thanks to you and others who have been with us for so long 🔴
 
-
-<!DOCTYPE html>
-
-
-<html>
-
-
-<body>
-
+# QUEEN - AI
 
 <p align="center">
-
-
-<a href="https://chat.whatsapp.com/IpDbNkTpz1l520HHFuS7B7">
-
-
-<img alt="dark queen docs" height="900" src="https://i.ibb.co/R2TpKs6/Screenshot-20231205-121133.jpg"> </a>
-
-
-<h1 align="center">
-
-
-
-
-
-<a href="https://github.com/PRINCE-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/PRINCE-GDS?label=Followers&style=social"></a>
-
-
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-GDS/THE-PRINCE-BOT?&style=social"></a>
-
-
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/PRINCE-GDS/THE-PRINCE-BOT?style=social"></a>
-
-
-<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/THE-PRINCE-BOT?label=Watching&style=social"></a>
-
-
+ <a href="" rel="noopener">
+ <img width=380px height=380px src="https://i.ibb.co/b1t6fTt/Picsart-23-07-03-13-48-56-122.png" alt="@DarkWinzo/Queen-AI"></a>
 </p>
 
+```python
+Hi I'm Queen-AI Whatsapp Advance chatgpt Chat Bot
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DARK+QUEEN+MULTDIVICE+BOT++🎧" alt="Typing SVG" /></a>
+• __version__  == "__1.0.1__":
+    return print("1.0.0")
+    
+• __Team__ == "__Technical Hacking Team__":
+    return print("Technical Hacking Team")
+  
+• __Currently_Language__ == "__English & Sinhala & Urdu & Malayalam & Hindi & French__":
+    return print("English & Sinhala & Urdu & Malayalam & Hindi & French")
+```
+
+<div align="center">
+
+</div>
+
+# Deployment Methods
+
+<div align="center">
+   
+<a href="https://queen-ai.queen-md.repl.co/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR 1" height="112" width="300" /></a><br>
+  <div>
+ <br>
+
+<a href="https://replit.com/@DarkWinzo/QUEEN-AI-QR?v=1"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR 2" height="112" width="300" /></a><br>
+  <div>
+ <br>
+
+<a href="https://github.com/DarkWinzo/Queen-AI/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Fork Queen-AI" height="112" width="310" /></a>
+  <div>
+<br>
+<a href="https://github.com/DarkWinzo/Queen-AI/wiki/Queen-AI-Deploy" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy Queen-AI" height="112" width="310" /></a>
+  <div>
+<br>
+
+ 
+
+> ❯ Deploy Strong Platform For Better Experience...
+
+```
+Menu Command ==> .menu
+
+Setting Menu Command ==> .setting-menu
+
+```
+> [***For Looking Queen-AI All Commands***](https://github.com/DarkWinzo/Queen-AI/wiki/Queen-AI-Commands)
+
+> Advance Chat gpt AI Whatsapp Bot
+ 
+> Please Give A Star On Repo
+
+---
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+A+S+H+++W+H+A+T+S+A+P+P+++U+S+E+R+-+B+O+T" alt="Typing SVG" /></a>
-</h1>
+## Support Group
 
-a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=ａａａｓｈ" alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+A+S+H+-+W+H+A+T+S+A+P+P; U+S+E+R+-+B+O+T" alt="Typing SVG" /></a>
-
-<p align="center">
-
-
+<a href="https://chat.whatsapp.com/CZQwGCvcyNKIVW3gPF7GqX"><img title="Queen-AI Support" src="https://img.shields.io/badge/Queen%20AI%20Deploy%20Help-Touch%20Here-green.svg?style=for-the-badge&logo=homeassistantcommunitystore" /></a>
 

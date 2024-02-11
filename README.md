@@ -14,7 +14,7 @@ This will be my and our team's last github project, thanks to you and others who
 
 <p align="center">
  <a href="" rel="noopener">
- <img width=550px height=380px src="https://i.ibb.co/K9S2LkY/Picsart-24-02-11-21-49-27-657.jpg" alt="@DarkWinzo/Queen-AI"></a>
+ <img width=550px height=480px src="https://i.ibb.co/K9S2LkY/Picsart-24-02-11-21-49-27-657.jpg" alt="@DarkWinzo/Queen-AI"></a>
 </p>
 
 ```python

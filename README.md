@@ -1,4 +1,4 @@
-# App.json
+ද්😂# App.json
 ```
   "SESSION_ID": "Paste your session ID",
   "OWNER_NUMBER": "94752013704",
@@ -30,15 +30,15 @@
 # Deployment methods
     
    
-<a href="/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR 1" height="112" width="300" /></a><br>
+<a href="/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR 1" height="72" width="400" /></a><br>
   <div>
  <br>
 
-<a href="QR?v=1"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR 2" height="92" width="300" /></a><br>
+<a href="QR?v=1"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR 2" height="72" width="400" /></a><br>
   <div>
  <br>
 
-<a href="https://github.com/DarkWinzo/Queen-AI/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Fork Queen-AI" height="112" width="310" /></a>
+<a href="/" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Fork Queen-AI" height="72" width="410" /></a>
   <div>
 <br>
 

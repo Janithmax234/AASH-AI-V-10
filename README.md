@@ -1,4 +1,4 @@
-😂ද්😂# App.json
+# App.json
 ```
   "SESSION_ID": "Paste your session ID",
   "OWNER_NUMBER": "94752013704",
@@ -30,17 +30,7 @@
 # Deployment methods
     
    
-<a href="/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR 1" height="30" width="100" /></a><br>
-  <div>
- <br>
 
-<a href="QR?v=1"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR 2" height="30" width="100" /></a><br>
-  <div>
- <br>
-
-<a href="/" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Fork Queen-AI" height="30" width=100" /></a>
-  <div>
-<br>
 
 # AASH-AI-V-10
 

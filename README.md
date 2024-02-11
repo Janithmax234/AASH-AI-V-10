@@ -1,9 +1,5 @@
 # App.json
-
-the JSON down and paste in repl and hiroku then fill the vars
-
 ```
-
   "SESSION_ID": "Paste your session ID",
   "OWNER_NUMBER": "94752013704",
   "OWNER_NAME": "janith",
@@ -26,11 +22,9 @@ the JSON down and paste in repl and hiroku then fill the vars
   "LEVEL_UP_MESSAGE": 'true',
   "WORKTYPE": 'public',
   "ACTIVE_GLINK": 'Add your group link or links /false',
-  "CHAT_BOT_NAME": 'simsimi', 
-  
+  "CHAT_BOT_NAME": 'simsimi',
 
 ```
-
 
 # AASH-AI-V-10
 

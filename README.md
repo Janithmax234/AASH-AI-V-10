@@ -23,20 +23,22 @@ Hi I'm Aash-AI,
 
 • __Version__  == "__10.1__":
 ```
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+A+S+H+-+A+I+-+W,+-+B+O+T /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+A+S+H+-+A+I+-+W,+-+B+O+T /></a>
+
 
     
+    
 • __Gang__ == "__Syber see squad__":
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+A+S+H+-+A+I+-+W,+-+B+O+T /></a>
+    
 
 
 • __Owner__ == "Janith indunil's Aash__":
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+A+S+H+-+A+I+-+W,+-+B+O+T /></a>
+    
+
 
 • __Reason__ == "__Can you tell me the meaning of this?__":
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+A+S+H+-+A+I+-+W,+-+B+O+T /></a>
-  
-```
+    
+ 
 
 ---
 ```

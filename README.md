@@ -1,5 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=App.json🎧)](https://git.io/typing-svg)
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aash+user+whatsapp+bot's+app.json&pause=1000&color=2F26FF&background=C915FF&repeat=false&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 ```
   "SESSION_ID": "Paste your session ID",
   "OWNER_NUMBER": "94752013704",

@@ -36,9 +36,6 @@ Copy the JSON down and paste in repl and heroku then fill the vars
 
 ```
 
-
-# ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅꜱ ɪɴ ꜱᴏᴄɪᴀʟ
-    
    
 
 

@@ -81,8 +81,8 @@ Hi I'm Aash-AI,
 
 
 
-  ### Frok ZUSYCO-MD Repository
-<a href="https://github.com/Janithmax234/AASH-AI-V-10/fork"><img src="https://i.imgur.com/cxaSEWe.png" alt="AASH" border="2" width="155" height="46" ></a>
+  # Frok AASH-AI-MD Repository
+<a href="https://github.com/Janithmax234/AASH-AI-V-10/fork"><alt="AASH" border="2" width="155" height="46" ></a>
   #
 
 

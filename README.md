@@ -1,3 +1,6 @@
+<a href="https://ibb.co/8jL9kpT"><img src="https://i.ibb.co/y8cq21G/R.png" alt="R" border="0"></a>
+
+
 <p align="center"> 
   <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=Aash+Ai+user+bot+Md+;Created+By+Janith+indunil" alt="Typing SVG" /></a>

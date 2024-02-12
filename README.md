@@ -45,6 +45,11 @@ Hi I'm Aash-AI Whatsapp Advance level chatgpt Chat Bot
 
 This will be my and our team's last github project, thanks to you and others who have been with us for so long 🔴
 
+<p align="center"> 
+  <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=human+kindness+is+priceless+❤️" alt="Typing SVG" /></a>
+</p> 
+
 
 
 <a href="https://ibb.co/8jL9kpT"><img src="https://i.ibb.co/y8cq21G/R.png" alt="R" border="0"></a>

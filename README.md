@@ -81,11 +81,6 @@ Hi I'm Aash-AI,
 
 
 
-  # Frok AASH-AI-MD Repository
-<a href="https://github.com/Janithmax234/AASH-AI-V-10/fork"><alt="AASH" border="2" width="155" height="46" ></a>
-  #
-
-
 
 # ᴅᴇᴘʟᴏʏ ʜᴇʀᴏᴋᴜ
 

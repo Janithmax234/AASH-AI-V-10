@@ -80,6 +80,60 @@ Hi I'm Aash-AI,
 ---
 
 
+<img alt="secktor docs" height="600" src="https://i.ibb.co/HCdMSw3/Screenshot-20231205-101553.jpg">  
+
+<a href="https://wa.me/qr/LTVUTK3OMRDWG1" target="_blank">
+      <img alt="whatsapp Group" src="https://img.shields.io/badge/ ᴀᴀꜱʜ ᴀɪ ᴏᴡɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ ɴᴜᴍʙᴇʀ  -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
+
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=ʏᴇᴘ+ʜᴇ'ꜱ+-+ᴊᴀɴᴇᴛʜ+ɪɴᴅᴜɴɪʟ" alt="Typing SVG" /></a>
+</p>
+
+
+
+ 
+
+
+### TERMUX
+1. 
+```sh
+$ pkg upgrade -y && pkg update -y
+$ pkg install git -y
+$ pkg install nodejs -y
+$ pkg install ffmpeg -y
+$ pkg install imagemagick -y
+$ git clone https://github.com/PRINCE-GDS/THE-PRINCE-BOT
+$ cd THE-PRINCE-BOT
+$ npm i 
+$ npm start
+```
+2. Wait for the to start...
+3. Scan the QR code from the second device. (Go to WhatsApp > Linked Devices > Link a Device) 
+---------
+
+<h2 align="left">All Credits To Teach By ❤</h2>
+
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
+
+<h1 align="center">AASH AI MULTDIVICE</h1>
+
+<p align="center">
+  <a href="https://github.com/Janithmax234/Dark-queen"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Thank+you+for+little+smiling+after+all+the+things.+You+have+need+through.+I+need+love+from+you.+Please,+Allow+the+subconscious+mind+for+me." alt="AnyaReadme"></a>
+</p>
+
+<p align="center">
+    <a href="#"><img title="DARK_QUEEN-MD" src="https://img.shields.io/badge/WhatsApp%20BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/Janithmax234/Dark-queen"><img title="Author" src="https://img.shields.io/badge/AUTHOR-JanithBotz-green.svg?style=for-the-badge&logo=github"></a>
+</p>
+
+
 
 
 # ᴅᴇᴘʟᴏʏ ʜᴇʀᴏᴋᴜ

@@ -1,4 +1,3 @@
-<a href="https://ibb.co/8jL9kpT"><img src="https://i.ibb.co/y8cq21G/R.png" alt="R" border="0"></a>
 
 
 <p align="center"> 
@@ -52,6 +51,9 @@ Hi I'm Aash-AI Whatsapp Advance level chatgpt Chat Bot
 
 This will be my and our team's last github project, thanks to you and others who have been with us for so long 🔴
 
+
+
+<a href="https://ibb.co/8jL9kpT"><img src="https://i.ibb.co/y8cq21G/R.png" alt="R" border="0"></a>
 
 
     

@@ -47,7 +47,7 @@ This will be my and our team's last github project, thanks to you and others who
 
 <p align="center"> 
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=human+kindness+is+priceless+❤️" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=human+kindness;is+priceless+❤️" alt="Typing SVG" /></a>
 </p> 
 
 

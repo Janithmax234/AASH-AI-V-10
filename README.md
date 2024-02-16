@@ -110,7 +110,7 @@ $ npm start
 3. Scan the QR code from the second device. (Go to WhatsApp > Linked Devices > Link a Device) 
 ---------
 
-<h2 align="left">All Credits To Teach By ❤</h2>
+<h2 align="left">All Credits To Teach By akash ❤️</h2>
 
 
 <p align="center">

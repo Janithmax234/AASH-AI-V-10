@@ -30,8 +30,6 @@ Copy the JSON down and paste in repl and heroku then fill the vars
 ```
 
 
-<a href="https://ibb.co/frKDnKy"><img src="https://i.ibb.co/2cLZsLC/Picsart-24-02-11-22-13-37-971.jpg" alt="Picsart-24-02-11-22-13-37-971" border="0"></a>
-
 
 
 # ᴀᴀꜱʜ ᴀɪ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ'ꜱ ᴘᴜʙʟɪᴄ ᴅᴇᴛᴀɪʟꜱ

@@ -1,0 +1,51 @@
+{
+  "name": "Queen-AI",
+  "description": "Aash-AI Multi Language WhatsApp AI Chat Bot",
+  "repository": "https://github.com/Janithmax234/AASH-AI-V-10",
+  "logo": "https://i.ibb.co/zbMKwKZ/20230425-161348.jpg",
+  "keywords": ["multi-device","AASH-AI-V-10","Janithmax234"],
+  "stack": "container",
+  "addons": [{
+  "plan": "heroku-postgresql"
+    }],
+    "env": {
+      "HEROKU_APP_NAME": {
+        "description": "Heroku app name, same as above entered",
+        "required": true
+      },
+      "HEROKU_API_KEY": {
+        "description": "Heroku account api key, https://dashboard.heroku.com/account",
+        "required": true
+      },         
+                "SESSION_ID": {
+			"description": "Queen-AI Session ID",
+			"required": true
+			},
+		"OWNER_NAME": {
+			"description": "Add the owner name here and if you want to use the default name then just leave it",
+			"required": false,
+			"value": "DarkWinzo"
+		},
+		"OWNER_NUMBER": {
+			"description": "Add the owner number here",
+			"required": true,
+			"value": ""
+		},
+		"LANGUAGE": {
+			"description": "Enter bot working language EN / SI / ML / UR / HI",
+			"required": true,
+			"value": "EN"
+		}
+	},
+	"buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+		 {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+    ]
+}

@@ -6,13 +6,11 @@
   "keywords": ["multi-device","AASH-AI-V-10","Janithmax234"],
   "stack": "container",
   "addons": [{
-  "plan": "heroku-postgresql"
-    
 	
 "env": {
   "OWNER_NAME": {
   "description": "owner name",
-      "value": " janith_indunil ❤️"
+      "value": " janith_indunil"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",

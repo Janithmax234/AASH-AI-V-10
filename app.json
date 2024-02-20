@@ -1,5 +1,5 @@
 {
-  "name": "Queen-AI",
+  "name": "Aash-AI",
   "description": "Aash-AI Multi Language WhatsApp AI Chat Bot",
   "repository": "https://github.com/Janithmax234/AASH-AI-V-10",
   "logo": "https://i.ibb.co/HCdMSw3/Screenshot-20231205-101553.jpg",
@@ -18,21 +18,21 @@
         "required": true
       },         
                 "SESSION_ID": {
-			"description": "Queen-AI Session ID",
+			"description": "Aash-AI Session ID",
 			"required": true
 			},
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it",
 			"required": false,
-			"value": "DarkWinzo"
+			"value": "Jana x matter"
 		},
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": ""
+			"value": "94 75 201 3704"
 		},
 		"LANGUAGE": {
-			"description": "Enter bot working language EN / SI / ML / UR / HI",
+			"description": "Enter bot working language EN ",
 			"required": true,
 			"value": "EN"
 		}
